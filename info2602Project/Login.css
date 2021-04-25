@@ -1,0 +1,118 @@
+.u-section-1 {
+  background-image: url("images/farmers-market-fresh-produce-vegetables-1068x713.jpg");
+  background-position: 65.38% 47.4%;
+  background-size: 130%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 501px;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 468px;
+  height: 349px;
+  background-image: none;
+  margin: 15px auto 0 336px;
+}
+
+.u-section-1 .u-icon-1 {
+  height: 64px;
+  width: 64px;
+  margin: -335px auto 0 543px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 182px;
+  width: 360px;
+  margin: 30px 379px 60px 401px;
+}
+
+.u-section-1 .u-form-group-2 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-btn-1 {
+  letter-spacing: 1px;
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-image: none;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 413px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-left: 282px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-left: 393px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-right: 390px;
+    margin-left: 191px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 316px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-left: 185px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-left: 275px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-right: 293px;
+    margin-left: 68px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 237px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-left: 50px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-left: 235px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-right: 158px;
+    margin-left: 23px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 149px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 340px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-left: 162px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-right: 0;
+    margin-left: 0;
+    width: 340px;
+  }
+}

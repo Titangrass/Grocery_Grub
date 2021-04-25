@@ -1,9 +1,11 @@
 .u-section-1 {
-  background-image: url("images/farmers-market-fresh-produce-vegetables-1068x713.jpg");
-  background-position: 65.38% 47.4%;
-  background-size: 130%;
+  background-image: url("images/every_day_grocery_items_with_bulk_foods.jpg");
+  background-position: 50% 50%;
+  height: 100%;
 }
-
+body, html {
+  height: 100%;
+}
 .u-section-1 .u-sheet-1 {
   min-height: 501px;
 }
